@@ -5,11 +5,10 @@ Welcome! I'm a 4th-year Computer Science & Applied Mathematics student This port
 ---
 
 ## 🧠 About Me
-
-🎓 4th-year CS & Applied Mathematics student at MIPT
-📈 Strong focus on probability, statistics, optimization, and stochastic processes
-💡 Currently learning: quantitative trading strategies, risk modeling, time series analysis
-🧑‍💻 Preparing for Quantitative Researcher / Quant Analyst roles in finance & crypto markets
+- 🎓 4th-year CS & Applied Mathematics student at MIPT
+- 📈 Strong focus on probability, statistics, optimization, and stochastic processes
+- 💡 Currently learning: quantitative trading strategies, risk modeling, time series analysis
+- 🧑‍💻 Preparing for Quantitative Researcher / Quant Analyst roles in finance & crypto markets
 
 
 # 🧮 Quant Researcher Portfolio
