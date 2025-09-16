@@ -1,3 +1,17 @@
+# 📊 Jaehyeon Jeong's Quantitative Researcher Portfolio
+
+Welcome! I'm a 4th-year Computer Science & Applied Mathematics student This portfolio highlights practicing Python, SQL, Probability, Statistics and more
+
+---
+
+## 🧠 About Me
+
+🎓 4th-year CS & Applied Mathematics student at MIPT
+📈 Strong focus on probability, statistics, optimization, and stochastic processes
+💡 Currently learning: quantitative trading strategies, risk modeling, time series analysis
+🧑‍💻 Preparing for Quantitative Researcher / Quant Analyst roles in finance & crypto markets
+
+
 # 🧮 Quant Researcher Portfolio
 
 This repository showcases my preparation for **Quantitative Researcher / Quant Analyst** roles  
