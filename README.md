@@ -40,15 +40,5 @@ It combines **Python / SQL practice**, **probability / statistical learning**, *
 
 ---
 
-## 📈 Weekly Progress
-
-| Week | Python LeetCode | SQL LeetCode | Stats | Backtests | ML | Notes |
-|------|-----------------|--------------|-------|-----------|----|-------|
-| 1    | 10 problems     | 5 problems   | Lectures 1–5 | MA crossover | EDA baseline | - |
-| 2    | 15 problems     | 10 problems  | Lectures 6–8 | Pairs trading | Boosting model | - |
-| 3    | 20 problems     | 15 problems  | CLT & Regression | VWAP/TWAP sim | SHAP analysis | LOB draft |
-
----
-
 ## 🔗 Related Portfolio
-- [Crypto Data Analyst Repo](https://github.com/yourusername/crypto-data-analyst) → DeFi analytics, ETL pipelines, Tableau/Dune dashboards.
+- [Crypto Data Analyst Repo](https://github.com/Jaehyeon-Jeong/Crypto-Data-Analyst) → DeFi analytics, ETL pipelines, Tableau/Dune dashboards.
