@@ -25,7 +25,7 @@ It combines **Python / SQL practice**, **probability / statistical learning**, *
 - `sql_practice/`: SQL query problems from LeetCode.
 
 ### 2. Probability & Statistics 
-- `stats_notes/`: MIT OpenCourseWare notes + MIPT lecture/seminar matrials  + solved problem sets.
+- `notes/`: MIT OpenCourseWare notes + MIPT lecture/seminar matrials  + solved problem sets.
 
 ### 3. Quant Research & Backtesting
 - `backtests/`: Simple backtest framework in Python.
