@@ -4,6 +4,7 @@ class Solution:
         return len(ss[-1])
 
   """
+  Another Solution
   class Solution:
     def lengthOfLastWord(self, s: str) -> int:
         words = s.strip().split()
