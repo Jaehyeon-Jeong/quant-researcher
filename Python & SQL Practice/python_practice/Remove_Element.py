@@ -11,7 +11,7 @@ class Solution:
         return k
 
 """
-Optional Sol
+Another Sol
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         
